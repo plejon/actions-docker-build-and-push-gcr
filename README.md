@@ -1,7 +1,7 @@
 # Docker build and push to GCR
 
 Simple anctions workflow that takes your Dockerfile puts your iamge at gcr.  
-Form from https://github.com/urcomputeringpal/actions-docker
+Fork from https://github.com/urcomputeringpal/actions-docker
 
 
 ## Options
